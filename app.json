@@ -1,9 +1,9 @@
 {
-    "name": "Rockerz_Musicplayer",
-    "logo": "https://telegra.ph/file/564f5ebbd100278261a03.jpg",
+    "name": "Music Repo",
+    "logo": "https://telegra.ph/file/991717f8dacfd35570b0c.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/S780821/Rockerz_Musicplayer",
+    "repository": "https://github.com/log-afk-xD/Op-music",
     "stack": "container",
     "env": {
         "API_ID": {
