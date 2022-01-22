@@ -1,4 +1,4 @@
-#salim // @xmartperson
+#afk // @official_afk_xD
 
 import os
 import aiofiles
@@ -89,7 +89,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: perfect salim(@xmartperson)",
+        f"Powered By: Log Afk (@Official_Afk_xD)",
         (255, 255, 255),
         font=font,
     )
